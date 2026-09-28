@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789972750594,
+      "tag": "0000_create_profiles_and_roles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789980015234,
+      "tag": "0001_add_clinician_role",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789984309414,
+      "tag": "0002_create_tooth_chart_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789984826075,
+      "tag": "0003_create_tooth_chart_summaries",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789986844121,
+      "tag": "0004_pedo_case_library_and_summary_reviews",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1789988117620,
+      "tag": "0005_create_dental_images",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790162993309,
+      "tag": "0006_emr_core_organisation_identity",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1790163080289,
+      "tag": "0007_emr_patient_scheduling_encounters",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1790163188110,
+      "tag": "0008_emr_orders_medications_dental_billing_audit",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1790163212103,
+      "tag": "0009_emr_indexes",
+      "breakpoints": true
+    }
+  ]
+}
